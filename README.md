@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suravi Shrestha</h1>
-<h3 align="center">Ffrontend developer from Nepal</h3>
+<h3 align="center">Frontend developer from Nepal</h3>
 
 - 🔭 I’m currently working on **DASTAA**, a platform for digital and spatial technologies to  
   enhance anticipatory action during disasters.
