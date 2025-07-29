@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suravi Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">Ffrontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on [NirvanaNepal](https://nirvana-nepal-one.vercel.app/)
+- 🔭 I’m currently working on **DASTAA**, a platform for digital and spatial technologies to  
+  enhance anticipatory action during disasters.
 
-- 🌱 I’m currently learning **React, AI/ML**
+- 🌱  Learning more about **React, AI/ML, GeoAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suravii](https://github.com/suravii)
 
-- 📫 How to reach me **suravishrestha2002@gmail.com**
+- 📫  Reach me at **suravishrestha2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
