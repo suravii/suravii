@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suravi Shrestha</h1>
 <h3 align="center">Frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on **DASTAA**, a platform for digital and spatial technologies to  
-  enhance anticipatory action during disasters.
+- 🔭 I’m currently working on **Geonadir**, an Australian-based, cloud-based platform designed for managing, processing, analyzing, and sharing drone mapping imagery
 
 - 🌱  Learning more about **React, AI/ML, GeoAI**
 
